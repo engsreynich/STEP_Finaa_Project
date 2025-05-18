@@ -49,12 +49,12 @@
                   <div class="row full-height align-items-center">
                     <div class="col-md-12 justify-content-center">
                       <ul class="list-unstyled menu">
-                        <li><a href="index.html" class="animsition-link">Home</a></li>
-                        <li><a href="hotel.html" class="animsition-link">Hotels</a></li>
-                        <li class="active"><a href="about.html" class="animsition-link">About Us</a></li>
-                        <li><a href="gallery.html" class="animsition-link">Gallery</a></li>
-                        <li><a href="blog.html" class="animsition-link">News</a></li>
-                        <li><a href="contact.html" class="animsition-link">Contact</a></li>
+                        <li><a href="index.blade.php" class="animsition-link">Home</a></li>
+                        <li><a href="hotel.blade.php" class="animsition-link">Hotels</a></li>
+                        <li class="active"><a href="about.blade.php" class="animsition-link">About Us</a></li>
+                        <li><a href="gallery.blade.php" class="animsition-link">Gallery</a></li>
+                        <li><a href="blog.blade.php" class="animsition-link">News</a></li>
+                        <li><a href="contact.blade.php" class="animsition-link">Contact</a></li>
                       </ul>
                     </div>
                   </div>
